@@ -15,17 +15,23 @@ The project transforms raw e-commerce order data into an interactive dashboard t
 
 ---
 
-### Sales & Order Analysis
+### Sales & Orders
 
 <img width="1837" height="641" alt="Sales" src="https://github.com/user-attachments/assets/0f85b022-d47e-4616-84de-6c8660011ae7" />
 
 
 ---
 
-### Customer Analytics
+### Customers
 
 <img width="1588" height="647" alt="Customer" src="https://github.com/user-attachments/assets/89773549-7cc6-407f-b640-f8f083b6d695" />
 
+
+---
+
+### Products
+
+<img width="1690" height="627" alt="Products" src="https://github.com/user-attachments/assets/e09b9344-bcc3-42a6-a60d-1847ad24d303" />
 
 ---
 
