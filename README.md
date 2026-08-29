@@ -112,7 +112,6 @@ The dashboard focuses on important e-commerce performance indicators such as:
 * Slicers
 * Data Validation
 * Excel Formulas
-* Conditional Formatting
 * KPI Cards
 * Interactive Dashboard Design
 
