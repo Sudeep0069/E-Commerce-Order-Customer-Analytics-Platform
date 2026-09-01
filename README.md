@@ -53,14 +53,14 @@ The dashboard focuses on important e-commerce performance indicators such as:
 
 | KPI                     | Description                             |
 | ----------------------- | --------------------------------------- |
-| 💰 Total Sales          | Overall revenue generated               |
-| 📦 Total Orders         | Number of orders placed                 |
-| 👥 Total Customers      | Number of unique customers              |
-| 🛍️ Average Order Value | Average revenue generated per order     |
-| 📈 Sales Growth         | Change in sales over time               |
-| 🔄 Repeat Customers     | Customers who made multiple purchases   |
-| 🏆 Top Products         | Best-performing products based on sales |
-| 🌍 Regional Sales       | Sales performance by location/region    |
+|  Total Sales          | Overall revenue generated               |
+|  Total Orders         | Number of orders placed                 |
+|  Total Customers      | Number of unique customers              |
+|  Average Order Value | Average revenue generated per order     |
+|  Sales Growth         | Change in sales over time               |
+|  Repeat Customers     | Customers who made multiple purchases   |
+|  Top Products         | Best-performing products based on sales |
+|  Regional Sales       | Sales performance by location/region    |
 
 
 ---
@@ -181,7 +181,7 @@ The dashboard can be used to answer questions such as:
 ```text
 E-Commerce-Order-Customer-Analytics/
 │
-├── 📊 E-Commerce_Analytics_Dashboard.xlsx
+├── E-Commerce_Analytics_Dashboard.xlsx
 │
 ├── 📷 images/
 │   ├── dashboard-overview.png
@@ -194,7 +194,7 @@ E-Commerce-Order-Customer-Analytics/
 
 ---
 
-## 🚀 How to Use
+## How to Use
 
 1. Download or clone this repository.
 2. Open the Excel workbook.
@@ -205,39 +205,38 @@ E-Commerce-Order-Customer-Analytics/
 
 ---
 
-## 📚 Skills Demonstrated
+## Skills Demonstrated
 
 This project demonstrates practical skills in:
 
-* 📊 Data Analysis
-* 📈 Business Intelligence
-* 🧹 Data Cleaning
-* 📌 KPI Development
-* 📋 Excel Pivot Tables
-* 📉 Data Visualization
-* 🔎 Customer Analytics
-* 🛒 E-Commerce Analytics
-* 💼 Business-oriented Reporting
-* 🎨 Dashboard Design
+*  Data Analysis
+*  Business Intelligence
+*  Data Cleaning
+*  KPI Development
+*  Excel Pivot Tables
+*  Data Visualization
+*  Customer Analytics
+*  E-Commerce Analytics
+*  Business-oriented Reporting
+*  Dashboard Design
+*  Extracting Key Insights
+*  Business Decision Making
 
 ---
 
-## 🔮 Future Improvements
+## Future Improvements
 
 Potential improvements include:
 
 * Adding automated data refresh
-* Connecting Excel to external databases
-* Adding customer RFM analysis
 * Building predictive sales analysis
 * Adding advanced customer segmentation
-* Integrating Power Query
 * Recreating the dashboard in Power BI
 * Automating monthly KPI reporting
 
 ---
 
-## 👤 Author
+## Author
 
 **Sudeep Sarkar**
 **Subhajit Maity**
